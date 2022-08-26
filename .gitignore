@@ -8,6 +8,10 @@
 # macOS
 .DS_Store
 ./Source/.DS_Store
+./Source/assets/.DS_Store
+./Source/assets/image/.DS_Store
+
+
 
 # Node
 .DS_Store/node_modules

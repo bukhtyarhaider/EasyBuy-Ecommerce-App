@@ -1,12 +1,13 @@
-# EasyBuy-Ecommerce_App :bomb:
+### EasyBuy | Ecommerce Cross Platfrom (React Native) App
 
-A small cross platform app based on react native
-
-# Hi, We are Team Charlie! 👋
+> <img align="right" alt="Programming" src="image/easybuy_preview.png" height="200" />
+> Ecommerce is buying and selling that is conducted in an online environment, through an ecommerce application. An application is a software program designed to accomplish one or more tasks in a particular software environment. An ecommerce application is a software application that is specifically designed to support the creation of an ecommerce application or add functionality to it. Plug-ins and add-ons to ecommerce application software are included, but applications that don’t have specific ecommerce utility wouldn’t be considered. What is integral to one ecommerce app may not be needed at all for another. 'EasyBuy' come app with a complete solve to Ecommerce problems
+>
+> `Ecommrce` `Cross Platform` `React Native` `Node` <br> [![Android App](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff)](https://github.com/bukhtyarhaider/EasyBuy-Ecommerce_App/releases/download/app/EasyBuy-V1_9.apk)
 
 [![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/UsamaSarwar/reactnative-ecommerce-charlie)
 
-## `Development Stack` ➡️ `MERN Stack`
+## `Development Stack` ➡️ https://img.shields.io/badge/Made_with-React-0175C2?logo=react&logoColor=ffffff
 
 ### `Backend on NodeJs` ➡️ [https://github.com/abidrazaa/backend-node](https://github.com/abidrazaa/backend-node)
 

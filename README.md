@@ -69,8 +69,4 @@ The demonstration of Signup flow and the flow of login from normal user and admi
 
 The demonstration of the app can be seen from [here](https://drive.google.com/drive/folders/1PNyGSzUDNxUtrmtVk9bp8Lp82INrSct-)
 
-## Thanks to all the contributors ❤️
 
-<a href = "https://github.com/UsamaSarwar/reactnative-ecommerce-charlie">
-  <img src = "https://contrib.rocks/image?repo=UsamaSarwar/reactnative-ecommerce-charlie"/>
-</a>

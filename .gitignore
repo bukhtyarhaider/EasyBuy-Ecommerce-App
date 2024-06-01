@@ -13,10 +13,12 @@
 
 
 
+
 # Node
 .DS_Store/node_modules
 npm-debug.log
 yarn-error.log
+Source/node_modules
 
 # Ruby
 .direnv
